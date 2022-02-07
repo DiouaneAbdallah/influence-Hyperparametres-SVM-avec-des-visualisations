@@ -10,3 +10,5 @@ Dans ce projet, nous approfondissons trois hyperparamètres importants des SVM, 
 ### Influence des paramètres - Noyau
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiouaneAbdallah/influence-Hyperparametres-SVM-avec-des-visualisations/blob/main/InfluenceDesParamètres-Noyau.ipynb)
+
+this project is made with ❤️, in collab with [El hachemy Said](https://www.linkedin.com/in/said-el-hachemy).
