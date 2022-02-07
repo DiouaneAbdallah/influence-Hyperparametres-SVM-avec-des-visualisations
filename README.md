@@ -1,0 +1,2 @@
+# influence-Hyperparametres-SVM-avec-des-visualisations
+Support Vector Machine (SVM) est un algorithme d'apprentissage automatique supervisé largement utilisé. Il est principalement utilisé dans les tâches de classification, mais convient également aux tâches de régression.  Dans cet article, nous approfondissons deux hyperparamètres importants des SVM, C et gamma, et expliquons leurs effets avec des visualisations. Je suppose donc que vous avez une compréhension de base de l'algorithme et que vous vous concentrez sur ces hyperparamètres.
